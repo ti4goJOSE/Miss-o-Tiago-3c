@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Qual jogo que na sua opinião e um dos mais realistas de todos os tempos ?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Red Dead Redemption 2",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
